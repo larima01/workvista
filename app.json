@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "workvista",
+    "slug": "workvista",
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-4181498982226365~1158909397",
+      "ios_app_id": "ca-app-pub-4181498982226365~1158909397"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a9546794-ab83-4695-bd10-d844d792e8ef"
+      }
+    }
+  }
+}
